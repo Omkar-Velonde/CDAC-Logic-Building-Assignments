@@ -41,78 +41,30 @@ Problem Statement: You are required to write a menu-driven Java program that imp
 13. Question 13: Check if an Array Contains a Specific Element
 14. Question 14: Find the Index of an Element in an Array
 15. Question 15:Write a program to print the following pattern:
-    1
-    2*2
-    3*3*3
-    4*4*4*4
-    5*5*5*5*5
-    5*5*5*5*5
-    4*4*4*4
-    3*3*3
-    2*2
+  <img width="365" height="247" alt="image" src="https://github.com/user-attachments/assets/cac9784e-df7c-45a2-a296-109568a2c6ad" />
 
 16. Question 16: Write a program to print the following pattern:
-    1
-    1*2
-    1*2*3
-    1*2*3*4
-    1*2*3*4*5
+   <img width="162" height="137" alt="image" src="https://github.com/user-attachments/assets/10af8b37-a1a1-4ea4-8511-13a0be5ccde7" />
 
 17. Question 17: Write a program to print the following pattern:
-    1
-    1*3
-    1*3*5
-    1*3*5*7
-    1*3*5*7*9
+   <img width="152" height="140" alt="image" src="https://github.com/user-attachments/assets/7d9333a5-cf5a-4fb7-a2a3-6f9932934f40" />
 
 18. Question 18: Write a program to print the following pattern:
-11111
-22222
-33333
-44444
-55555
+<img width="202" height="136" alt="image" src="https://github.com/user-attachments/assets/2455ef37-d71d-42be-9d78-becb36a9c3f9" />
 
 19. Question 19: Write a program to print the following pattern:
-1
-2 2
-3 3 3
-4 4 4 4
-5 5 5 5 5
+<img width="148" height="127" alt="image" src="https://github.com/user-attachments/assets/d1ab7c3b-88a2-43c6-98a2-f9509e238f8b" />
 
 20. Question 20: Write a program to print the following pattern:
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
+<img width="177" height="127" alt="image" src="https://github.com/user-attachments/assets/dd0cae0d-68cb-4846-9646-cc857fb89e1a" />
 
 21. Question 21: Write a program to print the following pattern:
-1
-2 3
-4 5 6
-7 8 9 10
-11 12 13 14 15
+<img width="193" height="132" alt="image" src="https://github.com/user-attachments/assets/7fee7f1a-9c6b-4fb4-84fd-1a1496f96c7d" />
 
 22. Question 22: Write a program to print the following pattern:
-******
-*    *
-*    *
-*    *
-*    *
-******
+<img width="102" height="158" alt="image" src="https://github.com/user-attachments/assets/d90dd99b-153d-4a56-be00-806e992d6453" />
 
 23. Question 23: Write a program to print the following pattern:
-     *
-    ***
-   *****
-  *******
- *********
-***********
- *********
-  *******
-   *****
-    ***
-     *
 <img width="153" height="225" alt="image" src="https://github.com/user-attachments/assets/b5dfe657-d376-4d97-bc61-f743eac761b5" />
 
 24. Question 24: Reverse a String
