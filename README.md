@@ -113,6 +113,7 @@ Problem Statement: You are required to write a menu-driven Java program that imp
    *****
     ***
      *
+<img width="153" height="225" alt="image" src="https://github.com/user-attachments/assets/b5dfe657-d376-4d97-bc61-f743eac761b5" />
 
 24. Question 24: Reverse a String
 25. Question 25: Count Vowels in a String
