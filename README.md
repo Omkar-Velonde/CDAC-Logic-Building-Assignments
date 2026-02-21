@@ -10,10 +10,10 @@ This repository contains my Logic-building assignments for the CDAC PDCP-AC cour
 7. Find the Largest of Three Numbers:
 
 # Assignment 2:
-Problem 1: Grade Evaluation System
-Problem 2: Leap Year
-Problem 3: Days of the Week
-Problem 4: Identify the Values of Uninitialized Variables
+1. Problem 1: Grade Evaluation System
+2. Problem 2: Leap Year
+3. Problem 3: Days of the Week
+4. Problem 4: Identify the Values of Uninitialized Variables
 
 # Assignment 3:
 Problem 1: Sum of Two Numbers (Using a Method)
